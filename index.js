@@ -23,7 +23,11 @@ function dec(a) {
 }
 
 function makeInt(a) {
+<<<<<<< HEAD
   return parseInt(a)
+=======
+  return a
+>>>>>>> 1c1ae8fec62520b298351d5198ca98de5f66a278
 }
 
 function preserveDecimal(n) {
